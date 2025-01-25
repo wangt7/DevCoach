@@ -1,1 +1,1 @@
-# DevCoachUserStudy
+The repo contains the study materials for the DevCoach Project. The files "quiz1.pdf" and "quiz2.pdf" contain the quizzes used to assess participants' learning gains on concepts in the software development life cycle. The file "Post Survey.pdf" contains the Likert-scale questions for collecting participants' perceptions of the learning experience.
